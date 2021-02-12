@@ -1,0 +1,20 @@
+body{
+
+background: url(https://thumbs.dreamstime.com/b/palms-tropical-beach-white-sand-summer-vacation-travel-holiday-background-concept-caribbean-paradise-beach-palms-136606345.jpg);
+background-repeat: repeat; 
+}
+
+div{
+  background: blue;
+  border-color: orange;
+  border-width: 10px;
+  border-style: double;
+}
+
+p{
+  color: yellow;
+}
+
+span{
+  background-color: red;
+}
